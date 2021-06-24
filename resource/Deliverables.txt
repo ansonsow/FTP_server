@@ -1,0 +1,26 @@
+
+Deliverable 1
+	ftp_server_string_util.cpp
+	ftp_server_net_util.cpp
+	ftp_server_connection_listener.cpp
+	fpt_server_connection.cpp
+
+
+Deliverable 2
+	ftp_server_session.cpp
+		-test cases
+			-ftp_server_client_connection
+			-ftp_server_client_control
+	ftp_server_request.cpp
+		-excluding handleCommand(PASV, NLST, and RETR)
+
+Deliverable 3
+	ftp_server_request.cpp
+		-handleCommand(PASV, NLST, and RETR)
+	ftp_server_passive.cpp
+	ftp_server_nlst.cpp
+	ftp_server_retrieve.cpp
+
+
+	
+

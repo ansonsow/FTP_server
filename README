@@ -1,0 +1,44 @@
+# Application Name
+
+
+it is a ftp server that can communicate with the server with command, it has username and password and it can transfer files
+
+
+
+
+## Technologies
+
+
+the application uses ftp techology
+
+
+## Build, Run, Test, Installation, and Uninstallation
+
+
+make to build
+make run to run
+make test to test
+does not need to install or uninstall
+
+
+
+## Usage
+
+
+make run
+
+
+
+## Contributors
+
+Humayun Kabir
+
+inplimentation: Anson Su
+
+
+
+
+## License
+
+
+licensed under GNU GPL-3.0 or later
